@@ -7,6 +7,7 @@ for the proposed NMT system uses a Bidirectional LSTM Encoder and a Unidirection
 Figure 1: Seq2Seq Model with Multiplicative Attention, shown on the third step of the
 decoder. Note that for readability, we do not picture the concatenation of the previous
 combined-output with the decoder input.
+
 <img width="399" alt="Screenshot 2024-11-21 at 8 33 20 PM" src="https://github.com/user-attachments/assets/5e654946-4105-4b48-8491-3a9a23c36e77">
 
 
